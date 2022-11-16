@@ -16,17 +16,16 @@
 // UIC CS 211, Fall 2022
 #include <stdio.h>
 
-void reed_ekidan2() {
-  printf("Dale Reed and Ellen Kidane\n");
-  printf("We learned that git and GitHub are amazing, powerful tools!\n");
-  // comment test
+void chacon1_noPartner() {
+  printf("Steven Chacon and ___no partner___\n");
+  printf("Learning, trying to learn, how to work with Replit and GitHub together\n");
 }
 
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
-    reed_ekidan2();
+    chacon1_noPartner();
     
     return 0;
 }
